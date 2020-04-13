@@ -6,15 +6,15 @@ Log into smartthings API by going to https://graph.api.smartthings.com and log i
 Create a new Device Handler from code. Paste the code from RingFloodlightSiren into a device handler. <br>
 Click save.<br>
 Then Click Publish and select "For Me"<br>
-Go to My Devices
-Select New Device
-Enter the Name of the Siren in "Name" and "Lable"
-For Device Network ID paste the Device ID from the ringauth.php page.
-For Type scroll down to the botton and selec "Ring Floodlight Siren"
-For Version Select Publshed
-Select Location and Hub.
-Click Create
-This shold bring you to a page that has "Preferences (edit)"
-Click the edit next to Preferences.
-Enter the Device ID from the ringauth.php page
-Click Save.
+Go to My Devices<br>
+Select New Device<br>
+Enter the Name of the Siren in "Name" and "Lable"<br>
+For Device Network ID paste the Device ID from the ringauth.php page.<br>
+For Type scroll down to the botton and selec "Ring Floodlight Siren"<br>
+For Version Select Publshed<br>
+Select Location and Hub.<br>
+Click Create<br>
+This shold bring you to a page that has "Preferences (edit)"<br>
+Click the edit next to Preferences.<br>
+Enter the Device ID from the ringauth.php page<br>
+Click Save.<br>
