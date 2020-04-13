@@ -2,6 +2,7 @@
 Upload the ringauth.php to a web server. Load ringauth.php in your browser and enter your username and password and hit submit.<br>
 You should be asked for a 2fa key from your email. enter that in and hit submit again.<br>
 This should give you an Access Token Refresh Token and a list of your devices and thier Device ID's <br>
+Leave this browser window open <br>
 <br>
 Log into smartthings API by going to https://graph.api.smartthings.com and log in. Go to "My Device Handlers".<br>
 Create a new Device Handler from code. Paste the code from RingFloodlightSiren into a device handler. <br>
