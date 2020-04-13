@@ -11,7 +11,7 @@ Click save.<br>
 Then Click Publish and select "For Me"<br>
 Go to My Devices<br>
 Select New Device<br>
-Enter the Name of the Siren in "Name" and "Lable"<br>
+Enter the Name of the Siren in "Name" and "Label"<br>
 For Device Network ID paste the Device ID from the ringauth.php page.<br>
 For Type scroll down to the botton and selec "Ring Floodlight Siren"<br>
 For Version Select Publshed<br>
