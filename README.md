@@ -1,11 +1,11 @@
 # SmarthingsRingSiren
-Upload the ringauth.php to a web server. Load ringauth.php in your browser and enter your username and password and hit submit.
-You should be asked for a 2fa key from your email. enter that in and hit submit again.
-
-Log into smartthings API by going to https://graph.api.smartthings.com and log in. Go to "My Device Handlers".
-Create a new Device Handler from code. Paste the code from RingFloodlightSiren into a device handler. 
-Click save.
-Then Click Publish and select "For Me"
+Upload the ringauth.php to a web server. Load ringauth.php in your browser and enter your username and password and hit submit.<br>
+You should be asked for a 2fa key from your email. enter that in and hit submit again.<br>
+<br>
+Log into smartthings API by going to https://graph.api.smartthings.com and log in. Go to "My Device Handlers".<br>
+Create a new Device Handler from code. Paste the code from RingFloodlightSiren into a device handler. <br>
+Click save.<br>
+Then Click Publish and select "For Me"<br>
 Go to My Devices
 Select New Device
 Enter the Name of the Siren in "Name" and "Lable"
