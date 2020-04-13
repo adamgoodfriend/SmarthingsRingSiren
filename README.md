@@ -21,3 +21,7 @@ This shold bring you to a page that has "Preferences (edit)"<br>
 Click the edit next to Preferences.<br>
 Enter the Device ID from the ringauth.php page<br>
 Click Save.<br>
+<br>
+<br>
+Based all of my Device Handler code off of this project: <br>
+https://philipnye.com/2017/12/29/control-your-ring-spotlight-with-alexa-with-smart-things/
